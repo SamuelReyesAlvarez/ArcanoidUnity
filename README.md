@@ -12,3 +12,6 @@ All the resources, scripts, tools and sounds used in this package are the proper
 - Scripts & Design   => Samuel Reyes Alvarez (https://samuelreyes.itch.io/)
 - Sprites & Sound    => Kenney (https://www.kenney.nl/)
 - Music (Main Theme) => Patrick de Arteaga (https://patrickdearteaga.com/)
+
+
+Play the game => [Brick Combo](https://samuelreyesalvarez.github.io/ArcanoidUnity)
