@@ -1,4 +1,4 @@
-# ArcanoidUnity
+# ArcanoidUnity (Brick Combo)
 First project with Unity (engine version: 2019.3.0)
 
 This game is a demo about new skills learned in Game Development with Unity Engine.
@@ -14,4 +14,5 @@ All the resources, scripts, tools and sounds used in this package are the proper
 - Music (Main Theme) => Patrick de Arteaga (https://patrickdearteaga.com/)
 
 
-Play the game => [Brick Combo](https://samuelreyesalvarez.github.io/ArcanoidUnity)
+Play the game => [Brick Combo Web](https://samuelreyesalvarez.github.io/ArcanoidUnity)
+Download App from Play Store => [Brick Combo Android App](https://play.google.com/store/apps/details?id=com.SamuelReyes.BrickCombo)
